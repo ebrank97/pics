@@ -1,3 +1,5 @@
+# Pics - Find images from Unsplash.com with your search keyword using Unsplash API
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
